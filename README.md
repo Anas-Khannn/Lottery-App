@@ -37,7 +37,8 @@ This project reinforces how to combine **logic + UI** in Flutter using concepts 
 
 | 🎉 Winning Screen | 😔 Losing Screen |
 |------------------|------------------|
-| ![Winning Screen](https://github.com/Anas-Khannn/Lottery-App/blob/bf2a1124b89cc3be411ab21e696c606d03a9fbdc/Screenshot_20250801_172021.png) 
+| ![Winning Screen](https://github.com/Anas-Khannn/Lottery-App/blob/bf2a1124b89cc3be411ab21e696c606d03a9fbdc/Screenshot_20250801_172021.png)|
+
 | ![Losing Screen](https://github.com/Anas-Khannn/Lottery-App/blob/bf2a1124b89cc3be411ab21e696c606d03a9fbdc/Screenshot_20250801_171914.png) |
 
 ---
